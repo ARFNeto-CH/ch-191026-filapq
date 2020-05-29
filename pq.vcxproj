@@ -98,8 +98,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ch-191026-uma-fila.c" />
     <ClCompile Include="fila1.c" />
+    <ClCompile Include="teste.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fila1.h" />

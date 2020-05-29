@@ -1,4 +1,3 @@
-#pragma oncesenha
 #define _CRT_SECURE_NO_WARNINGS
 #include	"memory.h"
 #include	<stdio.h>
@@ -228,7 +227,7 @@ int		move_a_fila(int posicao)
 		fila[posicao] = fila[j];				// encolhe a fila
 		strcpy(cad[posicao].nome, cad[j].nome);	// copia nome
 		cad[posicao].senha = cad[j].senha;		// senha
-		cad[posicao].posicao_na_fila = posicao;				// apenas pra ajudar num dump
+		cad[posicao].posicao_na_fila = posicao;	// apenas pra ajudar num dump
 	};	// end for
 
 	return 0;

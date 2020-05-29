@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch-191026-uma-fila.c">
+    <ClCompile Include="fila1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="fila1.c">
+    <ClCompile Include="teste.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
